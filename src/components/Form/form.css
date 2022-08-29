@@ -58,7 +58,7 @@ input {
   font: inherit;
   font-size: 1.2rem;
   color: #828282;
-  width: 50%;
+  flex-basis: 10%;
   border-radius: 3px;
   transition: all 0.2s ease;
   margin-right: auto;
